@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="previous_button">Prev</string>
+    <string name="next_button">Next</string>
+    <string name="action_settings">Settings</string>
+    <string name="question_modulus">The modulus operator (%) in Java can be used only with variables of integer type.</string>
+    <string name="question_declarations">Declarations must appear at the start of the body of a Java method.</string>
+    <string name="question_bitwise">All bitwise operations are carried out with the same level of precedence in Java.</string>
+    <string name="question_output">The operations y >> 3 and y >>> 3 produce the same result when y > 0.</string>
+    <string name="question_consider">consider the statement "x = (a > b) ? a : b"; then the value of x is 27, if a = 18 and b = 27.</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgement_toast">Cheating is wrong.</string>
+</resources>
